@@ -1,0 +1,51 @@
+body {padding:0; margin:0; color:#000000}
+br{font-size:10px}
+.s{font-family:Tahoma; font-size:10px;  color:#A5A7AA}
+  .green{font-family:Tahoma; font-size:11px;  color:#9CE438; text-decoration:none}
+  .red{font-family:Tahoma; font-size:11px;  color:#2C7F06;}
+  .o{font-family:Tahoma; font-size:11px;  color:#FFCC00;}
+.blue{font-family:Tahoma; font-size:10px;  color:#B4B4B3;}
+.blue1{font-family:Tahoma; font-size:10px;  color:#B4B4B3;text-decoration:none}
+.w{font-family:Tahoma; font-size:10px;  color:#FFFFFF }
+.w1{font-family:Tahoma; font-size:10px;  color:#FFFFFF; text-decoration:none}
+  .b{font-family:Tahoma; font-size:11px;  color:#000000; }
+
+ .t1{background:url(images/1_z1.gif)  center left no-repeat; margin:0px 0px 0px 24px; padding:0px 0px 0px 14px }
+ .t2{background:url(images/1_z2.gif)  center left no-repeat; margin:0px 0px 0px 22px; padding:0px 0px 0px 10px }
+ .t3{background:url(images/1_z1.gif)  center left no-repeat; margin:0px 0px 0px 0px; padding:0px 0px 0px 14px }
+ .t4{background:url(images/1_z2.gif)  center left no-repeat; margin:0px 0px 0px 26px; padding:0px 0px 0px 10px }
+ 
+
+  #input{
+  		width:160px; height:21px;
+		
+		}
+		 
+#input1{
+  		scrollbar-3dlight-color:#E3E2E2;
+    scrollbar-track-color:#FFFFFF;
+    scrollbar-shadow-color:#E3E2E2 ;
+    scrollbar-face-color:#ECB637; 
+	scrollbar-arrow-color:#E3E2E2;
+	scrollbar-darkShadow-color:#E3E2E2;
+		
+		}
+		
+	  #textarea{
+  		width:102px; height:48px;
+		border-width:1px;
+		border-style:solid;
+		border:none;
+		background-color:#F0EAE3;
+		overflow:auto
+		}
+		
+		#maindiv
+		{
+		     box-shadow:10px 10px 5 px #888888;
+		}
+
+
+ 
+
+
